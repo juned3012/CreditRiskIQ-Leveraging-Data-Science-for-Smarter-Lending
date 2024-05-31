@@ -1,4 +1,4 @@
-# CreditRiskIQ-Leveraging-Data-Science-for-Smarter-Lending<br>
+# CreditRiskIQ Leveraging Data Science for Smarter Lending<br>
 •Formulated a credit risk assessment model to evaluate borrower creditworthiness and minimize lending risks.<br>
 •Explored factors like credit history, income, employment length, and loan details through EDA.<br>
 •Implemented Logistic Regression and Random Forest models.<br>
